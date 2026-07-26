@@ -1,0 +1,3 @@
+2026-07-27T00:24:58.898+05:30  INFO 7608 --- [UberApplication] [SpringApplicationShutdownHook] j.LocalContainerEntityManagerFactoryBean : Closing JPA EntityManagerFactory for persistence unit 'default'
+2026-07-27T00:24:59.033+05:30  INFO 7608 --- [UberApplication] [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2026-07-27T00:24:59.048+05:30  INFO 7608 --- [UberApplication] [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
